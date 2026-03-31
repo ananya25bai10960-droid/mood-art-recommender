@@ -1,0 +1,60 @@
+mood,energy_level,sleep_quality,music_preference,movie_preference,book_preference,recommended_song,recommended_movie,recommended_book,suggested_hobby,tip_for_today
+happy,high,good,pop,comedy,fiction,Happy - Pharrell | Walking on Sunshine,The Intern | Little Miss Sunshine,The Alchemist | Anne of Green Gables,dance | journaling,Enjoy this lightness — let it fuel you
+happy,medium,good,indie,romance,fiction,Sunroof | Golden Hour,Before Sunrise | About Time,Beach Read | Love & Other Words,photo walk | playlist making,Savor the small joys today
+happy,high,average,pop,animation,fiction,Can’t Stop the Feeling | Good as Hell,Inside Out | Toy Story,The Little Prince | Wonder,sketching | calling a friend,Your joy is valid and grounding
+happy,medium,good,acoustic,drama,non-fiction,Banana Pancakes | Better Together,The Secret Life of Walter Mitty,Atomic Habits | Ikigai,mindful walking,Stay present with this feeling
+happy,high,good,dance,musical,fiction,Levitating | Shut Up and Dance,La La Land | Mamma Mia,Daisy Jones & The Six,singing,Share your happiness freely
+,,,,,,,,,,
+sad,low,poor,acoustic,drama,fiction,Fix You | Skinny Love,Manchester by the Sea | Blue Valentine,A Little Life | The Kite Runner,writing feelings,It’s okay to feel heavy today
+sad,low,average,indie,drama,fiction,Cherry Wine | To Build a Home,Her | Eternal Sunshine,Normal People | Norwegian Wood,crying + rest,Be gentle with yourself
+sad,medium,poor,lofi,romance,fiction,Saturn | Moon Song,Call Me By Your Name,Me Before You | Fault in Our Stars,warm shower,You don’t need to rush healing
+sad,low,poor,classical,drama,fiction,River | Clair de Lune,Portrait of a Lady on Fire,The Bell Jar,slow stretching,Rest is productive too
+sad,medium,average,acoustic,coming-of-age,fiction,I Will Follow You Into the Dark,Lady Bird,The Perks of Being a Wallflower,journaling,"Feelings pass, even when slow"
+,,,,,,,,,,
+angry,high,poor,rock,action,non-fiction,Smells Like Teen Spirit | Numb,Joker | Fight Club,The Subtle Art of Not Giving a F*ck,workout,Release — don’t suppress
+angry,medium,poor,rap,thriller,non-fiction,Lose Yourself | HUMBLE,Gone Girl | Nightcrawler,Can’t Hurt Me,cleaning aggressively,Channel energy safely
+angry,high,average,metal,action,fiction,Duality | Enter Sandman,Mad Max Fury Road,The Hunger Games,running,Pause before reacting
+angry,medium,average,rock,crime,fiction,Seven Nation Army,The Dark Knight,1984,boxing bag,Write before speaking
+angry,high,poor,alt-rock,action,fiction,Boulevard of Broken Dreams,V for Vendetta,Fahrenheit 451,cold water splash,Anger has a message — listen calmly
+,,,,,,,,,,
+anxious,low,poor,lofi,comfort,fiction,Weightless | Night Owl,Studio Ghibli films,The Midnight Library,breathing exercises,Slow down your body first
+anxious,medium,poor,acoustic,romance,fiction,Breathe Me | Holocene,Pride & Prejudice,Eleanor Oliphant,grounding exercise,You are safe right now
+anxious,low,average,ambient,family,fiction,Marconi Union Paddington,Matilda,coloring,Breathe in control,
+anxious,medium,poor,indie,drama,fiction,Rivers and Roads,Her,Normal People,warm tea,Time will pass
+anxious,low,poor,classical,comfort,non-fiction,Clair de Lune,My Neighbor Totoro,Why We Sleep,body scan,One step at a time
+,,,,,,,,,,
+numb,low,average,ambient,indie,fiction,Intro | Motion Picture Soundtrack,Lost in Translation,The Stranger,slow walks,Numbness is still a feeling
+numb,low,average,lofi,drama,fiction,Nujabes Feather,Paterson,No Longer Human,free writing,You don’t need answers now
+numb,medium,average,acoustic,quiet,fiction,Skinny Love,Columbus,The Catcher in the Rye,people watching,It’s okay to feel blank
+numb,low,poor,ambient,art,fiction,Wait | Outro,Drive,The Bell Jar,resting eyes,Stillness has value
+numb,medium,average,indie,drama,fiction,I Know the End,Her,Convenience Store Woman,shower reset,Let sensations return slowly
+,,,,,,,,,,
+energetic,high,good,pop,workout,non-fiction,Titanium | Power,The Social Network,Atomic Habits,high-intensity workout,Use momentum wisely
+energetic,high,good,edm,action,fiction,Turn Down for What,Avengers,Ender’s Game,dance burst,Direct energy with intent
+energetic,medium,good,rock,adventure,fiction,Eye of the Tiger,Rocky,The Alchemist,planning goals,Balance action with rest
+energetic,high,average,pop,musical,fiction,Celebrate,Mamma Mia,Daisy Jones & The Six,singing loud,Don’t burn out
+energetic,medium,good,indie,adventure,fiction,Dog Days Are Over,Into the Wild,On the Road,cycling,Energy is a gift
+,,,,,,,,,,
+happy,medium,good,pop,romance,fiction,Best Day of My Life | Sunday Best,"Crazy Rich Asians | Love, Simon",The Rosie Project | Book Lovers,gratitude list,Let good moments sink in
+happy,high,good,dance,comedy,fiction,On Top of the World | Unstoppable,The Proposal | Easy A,The House in the Cerulean Sea,laugh with friends,Joy grows when shared
+happy,medium,average,indie,drama,fiction,Sweet Disposition | Home,The Peanut Butter Falcon,The Curious Incident of the Dog in the Night-Time,scrapbooking,Notice what’s working today
+,,,,,,,,,,
+sad,low,poor,acoustic,comfort,fiction,Youth | Slow Dancing in a Burning Room,Blue Is the Warmest Color,The Book Thief,comfort food,You are allowed to rest
+sad,medium,average,indie,coming-of-age,fiction,Sparks | The Night We Met,The Edge of Seventeen,The Perks of Being a Wallflower,long shower,Healing isn’t linear
+sad,low,average,classical,drama,fiction,Nocturne Op.9 | River,Atonement,Never Let Me Go,slow breathing,Let the feeling exist
+,,,,,,,,,,
+angry,high,poor,rock,action,fiction,BYOB | Killing in the Name,John Wick | The Raid,The Maze Runner,intense workout,Move your body first
+angry,medium,average,alt-rock,thriller,fiction,The Pretender | Believer,Prisoners,The Girl with the Dragon Tattoo,power walk,Control the response
+angry,high,average,rap,action,non-fiction,POWER | DNA,The Wolf of Wall Street,Think Like a Monk,cold shower,Pause before decisions
+,,,,,,,,,,
+anxious,low,poor,ambient,comfort,non-fiction,Weightless | Bloom,Finding Nemo,How to Stop Worrying,breath counting,Return to the present
+anxious,medium,average,acoustic,family,fiction,Bloom | Orange Sky,Little Women,The Comfort Book,light stretching,You are doing enough
+anxious,low,average,lofi,indie,fiction,Rainy Day | Coffee Breath,Columbus,The Midnight Library,grounding walk,Focus on one thing
+,,,,,,,,,,
+numb,low,poor,ambient,art,fiction,Outro | Dawn,Only Lovers Left Alive,The Stranger,sitting quietly,Numbness passes too
+numb,medium,average,lofi,drama,fiction,Snowfall | Silence,Paterson,Convenience Store Woman,mindful shower,Gently reconnect with senses
+numb,low,average,acoustic,indie,fiction,Retrograde | Moon,"Synecdoche, New York",No Longer Human,blank journaling,It’s okay to feel empty
+,,,,,,,,,,
+energetic,high,good,pop,action,fiction,Stronger | Don’t Stop Me Now,Top Gun Maverick,The Martian,sprint workout,Use momentum wisely
+energetic,medium,good,indie,adventure,fiction,Send Me On My Way,Hunt for the Wilderpeople,The Alchemist,exploring outdoors,Stay curious
+energetic,high,average,rock,sports,non-fiction,All I Do Is Win,Creed,Can’t Hurt Me,strength training,Push — but listen to limits
